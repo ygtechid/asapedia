@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "209621665667",
+    "firebase_url": "https://axiroo-staging-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "axiroo-staging",
+    "storage_bucket": "axiroo-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209621665667:android:20bfc4803a5a068f56d8b6",
+        "android_client_info": {
+          "package_name": "com.axiroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsbXD5fui9vLI7KDrKAw42k_K_qLxrqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

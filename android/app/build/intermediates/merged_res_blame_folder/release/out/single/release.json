@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_logocluster.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_logocluster.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_telephone.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_telephone.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_qris.jpg.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_qris.jpg"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_socmed.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_socmed.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.artzyproject.app-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_refresh.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_refresh.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_telfon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_telfon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_materai.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_materai.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_asapedia.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_asapedia.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_pulsa.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_pulsa.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_search.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_search.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_bills.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_bills.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_menu.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_menu.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_dumshirt.jpg.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_dumshirt.jpg"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_crown.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_crown.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_coupon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_coupon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_data.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_data.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_stream.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_stream.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xxxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xxxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_pay.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_pay.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_teamwork.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_teamwork.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_back.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_back.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_whatsapp.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_whatsapp.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_hotel.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_hotel.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-hdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-hdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_voucher.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_voucher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_emoney.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_emoney.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_rumah.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_rumah.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_fakefoto.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_fakefoto.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_ktp.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_ktp.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_plus.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_plus.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-xxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-xxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.artzyproject.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-mdpi_src_assets_listrik.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-mdpi/src_assets_listrik.png"
+    },
+    {
+        "merged": "com.artzyproject.app-merged_res-37:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.artzyproject.app-react-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
